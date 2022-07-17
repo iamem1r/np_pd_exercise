@@ -1,2 +1,3 @@
-# np_pd_exercise
-Numpy and Pandas exercises
+# Numpy and Pandas 
+
+- Numpy and Pandas exercises
